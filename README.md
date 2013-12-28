@@ -1,4 +1,4 @@
-# Blocss Flexembed – v0.0.1
+# Blocss Flexembed – v1.0.0
 
 A [Blocss](https://github.com/Blocss/blocss/) component to create flexible embeds.
 For use with multi-media embeds, such as videos or slideshows, that need to
