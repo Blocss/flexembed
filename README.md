@@ -17,7 +17,7 @@ Read more about [Blocss](https://blocss.github.io/blocss).
 * `.flexembed` - The core component class
 * `.flexembed--16by9` - Modifier class to enable 16by9 ratio
 * `.flexembed--4by3` - Modifier class to enable 4by3 ratio
-* `.flexembed` - Child component
+* `.flexembed__item` - Child component
 
 
 ## Usage
