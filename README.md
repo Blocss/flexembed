@@ -1,4 +1,6 @@
-# Blocss Flexembed – v1.0.0
+# Blocss Flexembed – v1.0.0 - Deprecated
+
+**This module has been moved to: ([https://github.com/Blocss/blocss](https://github.com/Blocss/blocss))**
 
 A [Blocss](https://github.com/Blocss/blocss/) component to create flexible embeds.
 For use with multi-media embeds, such as videos or slideshows, that need to
